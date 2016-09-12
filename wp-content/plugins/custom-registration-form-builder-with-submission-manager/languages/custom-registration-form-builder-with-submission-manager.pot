@@ -1,0 +1,3707 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RegistrationMagic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jul 26 2016 17:23:41 GMT+0530 (India Standard Time)\n"
+"POT-Revision-Date: Tue Jul 26 2016 17:24:25 GMT+0530 (India Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Author of the plugin
+msgid "Chris Schuld (http://chrisschuld.com/)"
+msgstr ""
+
+#: ../external/cron/cron_helper.php:10
+msgid "RegMagic Chronos Interval"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:22
+msgid "This feature (and a lot more...) is part of Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:25
+msgid ""
+"<span class=\"rm_buy_pro_inline\">To unlock this feature (and many more), "
+"please upgrade <a href=\"http://registrationmagic.com/?download_id=317&amp;"
+"edd_action=add_to_cart\" target=\"blank\">Click here</a></span>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:28
+msgid ""
+"<span class=\"rm_buy_pro_inline\">To unlock this feature (and many more), "
+"please upgrade <a href=\"https://registrationmagic.com/comparison/\" "
+"target=\"blank\">Click here</a></span>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:31
+msgid "Multi-page feature (and many more) is part of <b>Gold Edition</b> package"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:34
+msgid "Embed code feature (and many more) is part of <b>Gold Edition</b> package"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:37
+msgid ""
+"Multiple price type fields (and a lot more...) is part of Silver Edition "
+"package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:40
+msgid ""
+"You can assign user roles created here to registered users. Auto user role "
+"assignment through \"Registration Form\" or let user pick their role at the "
+"time of Registration (and a lot more...) is part of Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:43
+msgid ""
+"File, repeatable, map, address type fields (and a lot more...) is part of "
+"Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:46
+msgid "Export option (and a lot more...) is part of Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:49
+msgid ""
+"&quot;Print as PDF&quot; and &quot;Add note&quot; option (and a lot more...) "
+"is part of Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:52
+msgid ""
+"Attachments browser allows you to easily view and download attachments sent "
+"by the users through forms.<br>This feature (and a lot more...) is part of "
+"Silver Edition package."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:55 ../includes/class_rm_ui_strings.php:281
+msgid ""
+"No Forms you have created yet.<br>Once you have created a form and "
+"submissions start coming, this area will show you a nice little table with "
+"all the submissions."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:58
+msgid "UPGRADE NOW."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:60
+msgid "Select User Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:63
+msgid "New Registration Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:66
+msgid ""
+"Some options in this form will only work after you have created custom "
+"fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:69
+msgid "Edit Price Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:72
+msgid "Edit User"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:75
+msgid "New Price Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:78 ../includes/class_rm_ui_strings.php:1597
+msgid "Attachments"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:81 ../includes/class_rm_ui_strings.php:254 
+#: ../includes/class_rm_ui_strings.php:428
+msgid "Submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:84
+msgid "Add New Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:87
+msgid "Title"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:90
+msgid "Unique Token No."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:93
+msgid "Note Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:96
+msgid "Or Add Other"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:99
+msgid "Your Submission"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:102 ../includes/class_rm_ui_strings.php:686
+msgid "New User"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:105
+msgid "Their Answer"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:108
+msgid "No data recorded for this field to generate pie chart"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:111
+msgid "Field Label"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:114
+msgid "Note Color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:117
+msgid "My Submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:120
+msgid "My Submission"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:123
+msgid "Show opt-in checkbox"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:126
+msgid "This option will allow user to choose for mailchimp subscription."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:129
+msgid "Opt-in checkbox text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:132
+msgid "No Submission matched your search."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:135
+msgid "This text will appear with the opt-in checkbox."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:138
+msgid "No Forms"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:141
+msgid "Payment History"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:144
+msgid ""
+"You are not authorized to view the contents of this page. Please log in to "
+"view the submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:147
+msgid "This Form has expired."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:150
+msgid "This Form has no fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:153
+msgid "Log Off"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:156
+msgid "Print"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:159
+msgid "Visible to User on Front-End"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:162
+msgid "Select"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:165
+msgid "Back"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:168
+msgid "Select options"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:171 ../includes/class_rm_ui_strings.php:1633
+msgid "Add Note"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:174
+msgid "Payment Status"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:177
+msgid "Subscribe for emails"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:180
+msgid "Failed"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:183
+msgid "User Password is not set."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:186
+msgid "Paid Amount"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:189
+msgid "Amount"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:192
+msgid "No submission data for this email."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:195
+msgid "Transaction Id"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:198 ../includes/class_rm_ui_strings.php:
+#: 597 ../includes/class_rm_ui_strings.php:652
+msgid "Email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:201
+msgid "Prev"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:204
+msgid "Next"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:207
+msgid "First"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:210
+msgid "Last"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:213
+msgid "Layout"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:216
+msgid "Label left"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:219
+msgid "Label top"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:222
+msgid "Two columns"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:226
+msgid "No forms."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:230
+msgid "You do not have access to see this page."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:233
+msgid "Date Of Payment"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:236 ../includes/class_rm_ui_strings.php:239
+msgid "Invalid Submission Id"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:242
+msgid ""
+"No custom field values available for this user.<br>This area displays fields "
+"marked by &quot;Show this on user Page&quot;."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:245
+msgid "This user has not submitted any forms yet."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:248
+msgid ""
+"You have not created any form yet.<br>Once you have created a form and "
+"submissions start coming, this area will show all submitted attachments for "
+"the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:251
+msgid "No payment records exist for this user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:257
+msgid "Payment Invoice"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:260
+msgid "Payment TXN ID"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:263
+msgid "Created By"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:266
+msgid "Types"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:269
+msgid "No Submissions for this form yet."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:272
+msgid "Type"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:275
+msgid "Please Enter a value greater than zero."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:278
+msgid "Password must be at least 7 characters long."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:284
+#, php-format
+msgid "%element% is invalid."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:287
+#, php-format
+msgid "Invalid type of file uploaded in %element%."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:290
+#, php-format
+msgid "%element% must contain a valid date."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:293
+#, php-format
+msgid "%element% must contain a valid email address."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:296
+#, php-format
+msgid "%element% must be numeric."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:299
+#, php-format
+msgid "%element% contains invalid charcters."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:302
+#, php-format
+msgid "%element% must contain a url (e.g. http://www.google.com)."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:305
+msgid "Display Name For Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:308
+msgid "Description"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:311
+msgid "No Attachments for this form yet."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:314 ../includes/class_rm_ui_strings.php:3003
+msgid "Custom Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:317
+msgid "Download All"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:320
+msgid "Download"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:323
+msgid "Sr."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:326
+msgid "Also create WP User account"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:329
+msgid "Automatically Assigned WP User Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:332
+msgid "Or Let Users Pick Their Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:335
+msgid "WP User Role Field Label"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:338
+msgid "Allow Role Selection from"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:341
+msgid "Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:344
+msgid "Content Above The Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:347
+msgid "Success Message"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:350
+msgid "Show Unique Token Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:353
+msgid "After Submission, Redirect User to"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:356
+msgid "Page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:359 ../includes/class_rm_ui_strings.php:1690
+msgid "URL"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:362
+msgid "Auto-Reply the User"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:365
+msgid "Auto-Reply Email Subject"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:368
+msgid "Auto-Reply Email Body"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:371
+msgid "Submit Button Label"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:374
+msgid "Submit Button Label Color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:377
+msgid ""
+"No Submissions for this form yet.<br>Once submissions start coming, this "
+"area will show you a nice little table with all the submissions."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:380
+msgid "No Submissions during the period."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:383
+msgid "Submit Button Background Color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:386
+msgid "Auto Expires"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:389
+msgid "Expiry"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:392
+msgid "Submissions Limit"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:395
+msgid "Expiry Date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:398
+msgid "Display Message in Place of the Form After Expiry"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:401
+msgid "Save"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:404
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:407
+msgid "This will add Username and Password fields to this form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:410
+msgid "All Forms"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:413 ../includes/class_rm_ui_strings.php:1576
+msgid "New Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:416 ../includes/class_rm_ui_strings.php:
+#: 477 ../includes/class_rm_ui_strings.php:2982
+msgid "New Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:419
+msgid "Duplicate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:422
+msgid "Filters"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:425 ../includes/class_rm_ui_strings.php:
+#: 2080 ../includes/class_rm_ui_strings.php:2788
+msgid "Time"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:431
+msgid "Search"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:434
+msgid "By Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:437
+msgid "Sort"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:440
+msgid "Last at"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:443
+msgid "Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:446
+msgid "Success rate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:449
+msgid "Last modified by"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:452
+msgid "Edit"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:455
+msgid "Edited By"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:458
+msgid "Payer name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:461
+msgid "Payer email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:464
+msgid "No Forms Yet"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:467
+msgid "No Forms Yet! Why not create one."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:471
+msgid "Does not works with Classic form style"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:474
+msgid "Select Type"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:480
+msgid "Label"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:483
+msgid "Placeholder text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:486
+msgid "CSS Class Attribute"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:489
+msgid "Maximum Length"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:492
+msgid "Rules"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:495
+msgid "Is Required"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:498
+msgid "Show this on User Page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:501
+msgid "Paragraph Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:504
+msgid "Options"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:507
+msgid "value seprated by comma \",\""
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:510
+msgid "Default Value"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:513
+msgid "Columns"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:516
+msgid "Value"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:519
+msgid "Rows"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:522
+msgid "Is Read Only"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:525
+msgid "Terms & Conditions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:528
+msgid "Define allowed file types (file extensions)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:531
+msgid "For example PDF|JPEG|XLS"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:534
+msgid "Price Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:537
+msgid "Price"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:540
+msgid "Click to add more"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:543
+msgid "Edit Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:546
+msgid "Fields Manager"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:549 ../includes/class_rm_ui_strings.php:1639
+msgid "Add Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:552
+msgid "Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:555
+msgid "Remove"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:558
+msgid "Common Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:561
+msgid "Special Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:564
+msgid "Profile Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:567
+msgid "Select A Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:570 ../includes/class_rm_ui_strings.php:2570
+msgid "Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:573
+msgid "Paragraph"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:576
+msgid "Heading"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:579
+msgid "Drop Down"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:582
+msgid "Radio Button"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:585
+msgid "Textarea"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:588
+msgid "Checkbox"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:591 ../includes/class_rm_ui_strings.php:594
+msgid "Date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:600
+msgid "Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:603 ../includes/class_rm_ui_strings.php:1814
+msgid "Country"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:606 ../includes/class_rm_ui_strings.php:
+#: 2118 ../includes/class_rm_ui_strings.php:2804
+msgid "Timezone"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:609
+msgid "T&C Checkbox"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:612
+msgid "File Upload"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:615
+msgid "Pricing"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:618
+msgid "Repeatable Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:621 ../includes/class_rm_ui_strings.php:698
+msgid "First Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:624 ../includes/class_rm_ui_strings.php:701
+msgid "Last Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:627
+msgid "Biographical Info"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:630
+msgid "Delete"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:634
+msgid "Bio"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:637
+msgid "No fields for this form yet."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:640
+msgid ""
+"You do not have any price field yet. Select a Field Type above to start "
+"creating price fields.<br>These fields can be later inserted into any form "
+"for accepting payment."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:643
+msgid "No form selected"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:646
+msgid "Edit Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:649
+msgid "Add"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:655
+msgid "Status"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:658
+msgid "Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:661
+msgid "Deactivated"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:664
+msgid "Activated"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:667
+msgid "Match Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:670
+msgid "Click to add options"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:673
+msgid "Heading Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:676
+msgid "No Field Selected"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:679
+msgid ""
+"You are going to delete this form(s). This will also delete all data "
+"assosiated with the form(s) including submissions and payment records. Users "
+"will not be deleted. Do you want to proceed?"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:683 ../includes/class_rm_ui_strings.php:1603
+msgid "User Manager"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:689
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:692
+msgid "Deactivate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:695
+msgid "Image"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:704
+msgid "DOB"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:707
+msgid "Action"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:710 ../includes/class_rm_ui_strings.php:1942
+msgid "View"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:713 ../includes/class_rm_ui_strings.php:1582
+msgid "Global Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:716 ../includes/class_rm_ui_strings.php:
+#: 1612 ../includes/class_rm_ui_strings.php:1938
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:719
+msgid "Form look, Default pages, Attachment settings etc."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:722
+msgid "Security"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:725
+msgid "reCAPTCHA placement, Google reCAPTCHA keys"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:728
+msgid "User Accounts"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:731
+msgid "Password behavior, Manual approvals etc."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:734
+msgid "Email Notifications"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:737
+msgid "Admin notifications, multiple email notifications, From email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:740
+msgid "EXTERNAL INTEGRATION"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:743
+msgid "Facebook, MailChimp (more coming soon!)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:746 ../includes/class_rm_ui_strings.php:749
+msgid "Payments"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:752
+msgid "Payment"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:755
+msgid "Form Title"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:758
+msgid "Currency, Symbol Position, Checkout Page etc."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:761
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:764
+msgid "Select Page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:767
+msgid "N/A"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:770
+msgid "Form Style:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:773
+msgid "Capture IP and Browser Info:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:776
+msgid "(file extensions) (For example PDF|JPEG|XLS)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:779
+msgid "Allowed File Types"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:782
+msgid "Allow Multiple Attachments:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:785
+msgid "Default WP Registration Page:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:788
+msgid "After Login Redirect User to:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:791
+msgid "Anti Spam"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:794
+msgid "Enable reCaptcha:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:797
+msgid "reCAPTCHA Language:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:800
+msgid "reCAPTCHA under User Login:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:803
+msgid "Site Key:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:806
+msgid "Secret Key:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:809
+msgid "Request Method:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:812
+msgid "(Change this setting if your ReCaptcha is not working as expected.)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:815
+msgid "Auto Generated Password:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:818
+msgid "Send Username and Password To User Through Email:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:821
+msgid "WP Registration Auto Approval:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:824
+msgid "Send Notification to the User for Front-End Notes:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:827
+msgid "Send Notification To Site Admin:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:830
+msgid "Enable SMTP:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:833
+msgid "SMTP Host:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:836
+msgid "SMTP Port:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:839
+msgid "Encryption type:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:842
+msgid "Authentication:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:845
+msgid "Email address for testing:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:848
+msgid "Test"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:851
+msgid "Add Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:854
+msgid "From Email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:857
+msgid "Display name for sender"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:860 ../includes/class_rm_ui_strings.php:1579
+msgid "Add Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:863
+msgid "Filter by"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:866
+msgid "Displaying for"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:869
+msgid "Select recipients from"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:872
+msgid "Allow User to Login using Facebook:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:875
+msgid "Facebook App ID:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:878
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:881
+msgid "MailChimp Integration:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:884
+msgid "MailChimp API:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:887
+msgid "Payment Processor:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:890
+msgid "Test Mode:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:893
+msgid "PayPal Email:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:896
+msgid "Currency:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:899
+msgid "PayPal Page Style:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:902
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:905
+msgid "Choose the location of the currency sign."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:908
+msgid "Define Recipients Manually"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:911
+msgid "Uploaded files must be in allowed format."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:914
+msgid "File is too large to upload."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:917
+msgid "File upload was not successfull"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:920
+msgid "The reCAPTCHA response provided was incorrect.  Please re-try."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:923
+msgid "Select a List"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:926
+msgid "Send To MailChimp List"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:929
+msgid "Username"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:932 ../includes/class_rm_ui_strings.php:
+#: 2040 ../includes/class_rm_ui_strings.php:2765
+msgid "Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:935
+msgid "Enter password again"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:938
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:941
+msgid "None"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:944
+msgid "Confirm Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:947
+msgid "Login"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:950
+msgid "is a required field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:953
+msgid "You are already logged in."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:956
+msgid ""
+"To show login box on a page, you can use Shortcode [RM_Login], or you can "
+"select it from the dropdown just like any other form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:959
+msgid "Today"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:962
+msgid "Yesterday"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:965
+msgid "This Week"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:968
+msgid "Last Week"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:971
+msgid "This Month"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:974
+msgid "This Year"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:977 ../includes/class_rm_ui_strings.php:1738
+msgid "Specific Period"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:980
+msgid "Active"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:983
+msgid "Pending"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:986
+msgid "Register As"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:989
+msgid "After Submission redirect URL not given."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:992
+msgid "After submission redirect Page not given."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:995
+msgid "Form expiry limit is invalid."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:998
+msgid "Form expiry date is invalid."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1001
+msgid "<div class=\"form_expired\">Form Expired</div>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1004
+msgid "Please select a form expiration criterion (By Date, By Submissions etc.)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1007
+msgid "Please select both expiry criterion (By Date, By Submissions). "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1010
+msgid "Latest Submissions not available for this form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1013
+msgid "There are no submissions for this email right now."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1016
+msgid "User already exists using this username."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1019
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1022
+msgid "Multi Select"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1025
+msgid "DropDown"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1028
+msgid "User Defined"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1031
+msgid "User already exists using this email."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1034
+msgid "This user already registered. Please try with different username or email."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1037
+msgid "Create New Form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1040
+msgid "New Form Notification"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1043
+msgid "Support, Feature Requests and Feedback"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1046
+#, php-format
+msgid ""
+"Your account has been successfully created on %SITE_NAME%. You can now login "
+"using following credentials:<br>Username : %USER_NAME%<br>Password : "
+"%USER_PASS%"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1049
+msgid "For support, please fill in the support form with relevant details."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1052
+msgid "Form deleted"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1055
+msgid "SUPPORT FORM"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1058
+msgid "Role Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1061 ../includes/class_rm_ui_strings.php:
+#: 1230 ../includes/class_rm_ui_strings.php:1606
+msgid "User Roles"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1064
+msgid "Add Role"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1067
+msgid "Export All"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1070
+msgid "User Email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1073
+msgid "Permission Level"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1076
+msgid "Error: invalid chartacter!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1079
+msgid "Map With MailChimp Email Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1082
+msgid "Map With MailChimp First Name Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1085
+msgid "Map With MailChimp Last Name Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1088 ../includes/class_rm_ui_strings.php:
+#: 1287
+msgid "Please select a value"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1091
+msgid "Please select First Name field for mailchimp integration."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1094
+msgid "Please select a mailchimp list."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1097 ../includes/class_rm_ui_strings.php:
+#: 1594
+msgid "Price Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1100
+msgid "Users Manager"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1103
+msgid ""
+"Sorry, insufficient data captured for this form. Check back after few more "
+"submissions have been recorded or select another form from above dropdown."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1106
+msgid "Visitor IP"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1109
+msgid "Submission"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1112
+msgid "Submitted On"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1115
+msgid "Time (UTC)"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1118
+msgid "Successful"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1121
+msgid "Filling Time"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1124
+msgid "Average Filling Time"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1127
+msgid "Failure Rate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1130
+msgid "Submission Rate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1133
+msgid "Success Rate"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1136
+msgid "Total Visits"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1139
+msgid "Conversion"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1142
+msgid "Browser wise Conversion"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1145
+msgid "Hits"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1148
+msgid "Browsers Used"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1151
+msgid "Browser"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1154
+msgid "Other"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1157
+msgid "Chrome"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1161
+msgid "Internet Explorer"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1164
+msgid "Firefox"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1167
+msgid "Android"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1170
+msgid "iPhone"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1173
+msgid "Safari"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1176
+msgid "Opera"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1179
+msgid "BlackBerry"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1182
+msgid "Reset All Stats"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1185
+msgid "You are going to delete all stats for selected form. Do you want to proceed?"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1188 ../includes/class_rm_ui_strings.php:
+#: 1588
+msgid "Form Analytics"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1191 ../includes/class_rm_ui_strings.php:
+#: 1591
+msgid "Field Analytics"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1194
+msgid "Submission limit reached for this form, please try back after 24 hours."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1197
+msgid "Form submission limit for a device"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1200
+msgid ""
+"Limits how many times a form can be submitted from a device within a day. "
+"Helpful to prevent spams. Set it to zero(0) to disable this feature."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1203
+msgid "Not submitted"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1206
+msgid "Banned"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1209
+msgid ""
+"Please select either Automatically Assigned WP User Role or Pick user role "
+"manually."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1212
+msgid "All"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1215
+msgid "WP User Role Field Label is required."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1218
+msgid "Please select Allowed WP Roles for Users."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1221
+msgid "Entry ID"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1224
+msgid "Entry Type"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1227
+msgid "User Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1233
+msgid "Send"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1236
+msgid "Auto reply email body is invalid."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1239
+msgid "Auto reply email subject is invalid"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1242 ../includes/class_rm_ui_strings.php:
+#: 1600
+msgid "Email Users"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1245
+msgid "Queue in progress"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1248
+msgid "Sent"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1251
+msgid "Started on"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1254
+msgid ""
+"This form is already processing an email queue. You cannot add another queue,"
+" until this task is finished"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1257
+msgid "No email submissions found for this form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1260
+msgid "No active queue. Select a form from dropdown to send emails."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1263
+msgid "Reset"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1266
+msgid "Show on form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1269
+msgid "Redirecting you to"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1272
+msgid "Payment Successfull"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1275
+msgid "Payment Failed!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1278
+msgid "Payment Pending."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1281
+msgid "Transaction Cancelled"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1284
+msgid "Unique Token"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1290
+msgid "Remember me"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1293
+msgid "Latest Submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1296
+msgid ""
+"Success! an email with one time password (OTP) was sent to your email "
+"address."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1299
+msgid "One Time Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1302
+msgid "Your One Time Password is "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1305
+msgid "Oops! We could not find this email address in our submissions database."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1308
+msgid "Invalid email format. Please correct and try again."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1311
+msgid "You have successfully logged in using OTP."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1314
+msgid ""
+"The OTP you entered is invalid. Please enter correct OTP code from the email "
+"we sent you, or you can generate a new OTP."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1317
+msgid " Admin added a note for you: <br><br>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1320
+msgid "Name of your form. Should be unique."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1323
+msgid "For your reference only. Not visible on front end."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1326
+msgid "Selecting this will register the user in WP Users area."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1329
+msgid "Which user role will be assigned to the user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1332
+msgid ""
+"This will allow users to select a role themselves. A new field will appear "
+"on the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1335
+msgid "Label of the role selection field which will appear on the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1338
+msgid "Only the checked roles will appear for selection on the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1341
+msgid "This content will be displayed above the fields in the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1344
+msgid "Message to show to the user after the form is submitted successfully."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1347
+msgid "A unique random number will be displayed to the user after form submission."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1350
+msgid "Redirect the user to a new page after submission (and success message)."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1353
+msgid "Select the page to which user is redirected after form submission."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1356
+msgid "Enter the URL where the user is redirected after form submission."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1359
+msgid ""
+"Turns on auto responder email for the form. After successful submission an "
+"email is sent to the user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1362
+msgid "Subject of the mail sent to be sent to the user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1365
+msgid ""
+"Content of the email to be sent to the user. You can use rich text and "
+"values the user submitted in the form for a more personalized message. If "
+"you are creating a new form, Add Fields drop down will be empty. You can "
+"come back after adding fields to the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1368
+msgid ""
+"Label for the button that will submit the form. Leave blank for default "
+"label."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1371
+msgid ""
+"Color of the text inside the submit button. Leave blank for default theme "
+"colors."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1374
+msgid "Color of the submit button. Leave blank for default theme colors."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1377
+msgid "Background transparency"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1380
+msgid "Change the opacity of icon's background"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1383
+msgid ""
+"Required for connecting the form with a MailChimp List. To make it work, "
+"please set MailChimp in Global Settings &#8594; <a target='blank' "
+"class='rm_help_link' href='admin.php?page=rm_options_thirdparty'>External "
+"Integration</a>."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1386
+msgid "Choose the form field which will be connected to MailChimp’s email field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1389
+msgid ""
+"Choose the form field which will be connected to MailChimp’s First Name "
+"field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1392
+msgid "Choose the form field which will be connected to MailChimp’s Last Name field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1395
+msgid ""
+"Select this if you want to auto unpublished the form after required number "
+"of submissions or reaching a specific date."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1398
+msgid "Select the condition for auto unpublishing the form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1401
+msgid ""
+"The form will not be visible to the user after this number is reached. It "
+"can be reset later."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1404
+msgid ""
+"The form will not be visible to the user after this date. It can be reset "
+"later."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1407
+msgid ""
+"User will see this message when accessing the form if the form is in "
+"unpublished state after reaching submission limit or expiry date."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1410
+msgid "Select  or change type of the field if not already selected."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1413
+msgid "The label of the field that will appear on the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1416
+msgid "Value or message that will appear inside the field before user fill it."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1419
+msgid ""
+"Apply a CSS Class defined in the theme CSS file or in Appearance &#8594; "
+"Editor"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1422
+msgid ""
+"Maximum Allowed length (characters) of the user submitted value. Leave blank "
+"for no limit. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1425
+msgid ""
+"Make this field mandatory to be filled. Form will give user an error if he/ "
+"she tries to submit the form without filling this field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1428
+msgid "Show this field on the User Page inside Users section of RegistrationMagic. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1431
+msgid "The text you want the user to see."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1434
+msgid "The text you want the user to see as heading."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1437
+msgid ""
+"Options for user to choose from. Drag and drop to arrange their order inside "
+"the list."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1440
+msgid "This option will appear selected by default when form loads."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1443
+msgid ""
+"Width of the text area defined in terms of columns where each column is "
+"equivalent to one character."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1446
+msgid "Height of the text area defined in terms of number of text lines."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1449
+msgid "Paste or insert your terms and conditions here."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1452
+msgid ""
+"Limits the type of file allowed to be attached. If you will leave it blank "
+"then extensions defined in global settings will be used."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1455
+msgid ""
+"Select the payment option defined in “Price Fields” section of "
+"RegistrationMagic."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1458
+msgid "Options for drop down list. Separate multiple values with a comma(,)."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1461
+msgid "Enable this to force selection of date of birth from a certain range."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1464
+msgid "This is primary email field. Type of this field can not be changed."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1467
+msgid "Select visual style of the form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1470
+msgid "Select Label Position and layout of the form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1473
+msgid ""
+"Limit the type of file allowed to be attached. You will need to define "
+"extension of the file types here."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1476
+msgid "Gives option to the user to select more than one file."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1479
+msgid ""
+"Chose which page you want to show to the user when he or she clicks on "
+"“Register” link on your site. Do make sure you have a registration form "
+"inserted inside the page you select."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1482
+msgid "Chose the page you want to redirect the user to after successful login."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1485
+msgid ""
+"Shows recaptcha above the submit button. It verifies if the user is human "
+"before accepting submission."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1488
+msgid ""
+"Required to make reCAPTCHA  work. You can generate site key from <a "
+"target='blank' class='rm_help_link' href='https://www.google."
+"com/recaptcha/'>here</a>."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1491
+msgid ""
+"Required to make reCAPTCHA  work. It will be provided when you generate site "
+"key."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1494
+msgid ""
+"Creates and sends the users random password instead of allowing them to set "
+"one on the form. After selecting this, password field will not appear on the "
+"forms. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1497
+msgid ""
+"Automatically activates user accounts after submission. Uncheck it if you "
+"want to manually activate each user. It can be done through user manager or "
+"by clicking activation link in admin email notification."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1500
+msgid ""
+"An email notification will be send to the user if you add a note to his/her "
+"submission and make it visible to him/her."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1503
+msgid ""
+"An email notification will be sent to Admin of this site for every form "
+"submission."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1506
+msgid "Add other people who you want to receive notifications for form submissions."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1509
+msgid ""
+"Whether to use an external SMTP (Google, Yahoo! etc) instead of local mail "
+"server"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1512
+msgid "Specify host address for SMTP."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1515
+msgid "Specify port number for SMTP."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1518
+msgid "Specify the type of encryption used by your SMTP service provider"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1521
+msgid ""
+"Please check this if authentication is required at SMTP server. Also, "
+"provide credential in the following fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1524
+msgid ""
+"A name to identify the sender. It will be shown as &quot;From: MY Blog &lt;"
+"me@myblog.com&gt;&quot;"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1527
+msgid "The reply-to email in the header of messages that user or admin receives."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1530
+msgid "A login using Facebook button will appear alongside the login form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1533
+msgid ""
+"To make Facebook login work, you’ll need an App Secret. It will be provided "
+"when you generate and App ID."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1536
+msgid ""
+"To make Facebook login work, you’ll need an App ID. More information <a "
+"target='blank' class='rm_help_link' href='https://developers.facebook."
+"com/docs/apps/register'>here</a>."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1539
+msgid ""
+"This will allow you to fetch your MailChimp lists in individual form "
+"settings and map selective fields to your MailChimp fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1542
+msgid ""
+"You will need a MailChimp API to make integration work. More information <a "
+"target='blank' class='rm_help_link' href='http://kb.mailchimp."
+"com/accounts/management/about-api-keys'>here</a>."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1545
+msgid "Presently only PayPal is supported."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1548
+msgid ""
+"This will put RegistrationMagic payments on test mode. Useful for testing "
+"payment system."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1551
+msgid "Your PayPal account email, to which you will accept the payments."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1554
+msgid ""
+"Default Currency for accepting payments. Usually, this will be default "
+"currency in your PayPal account."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1557
+msgid ""
+"If you have created checkout pages in your PayPal account and want to show a "
+"specific page, you can enter it’s name here."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1560
+msgid ""
+"For your reference only. This name will be visible when you will add price "
+"field in a form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1563
+msgid "Select  or change type of the price field if not already selected."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1566
+msgid "Subject for the message you are sending to the users."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1569
+msgid ""
+"Content of the message your are sending to the users of selected form. You "
+"can use values from form fields filled by the users from “Add Fields” "
+"dropdown for personalized message."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1573
+msgid "RegistrationMagic"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1585
+msgid "Form Submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1609
+msgid "Support"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1615
+msgid "Anti Spam Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1618
+msgid "User Account Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1621
+msgid "Auto Responder Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1624
+msgid "Third Party Integration Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1627
+msgid "Payment Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1630
+msgid "Save Settings"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1636
+msgid "Manage Form Fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1642
+msgid "Add PayPal Field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1645
+msgid "PayPal processing"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1648
+msgid "Attachment Download"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1651
+msgid "View Submission"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1654
+msgid "User Role Delete"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1657
+msgid "Registrant"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1660
+msgid "Lost your password?"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1663
+msgid ""
+"Note: If you wish to roll back to earlier version of RegistrationMagic due "
+"to broken upgrade, please <a href='http://registrationmagic.com/free/'>go "
+"here</a>. You will need to deactivate or uninstall this version and "
+"reinstall version 2.5. No data will be lost. If you want to resolve any "
+"issue with version 3.0, please use one of the links below to contact support."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1666
+msgid "My Details"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1669
+msgid "Admin Notes"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1672
+msgid "Show expiry countdown above the form?"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1675
+msgid "Shows form expiry status above the form when auto-expiry is turned on"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1678
+msgid "This is a required field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1681
+msgid "Sends user a mail about his/her user-name and password after registration."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1684
+msgid "First Create a price field from Price Fields > Add New"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1687
+msgid "Send Submitted Data to External URL "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1693
+msgid "URL to the script on external server which will handle the data"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1696
+msgid ""
+"Posts submitted data to external server. This could be useful for "
+"maintaining another database for submissions."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1699
+msgid "Registration Forms"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1702
+msgid "Stripe API Key"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1705
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1708
+msgid ""
+"Secret and publishable keys are used to identify your Stripe account. You "
+"can grab the test and live API keys for your account under <a href='https:"
+"//dashboard.stripe.com/account/apikeys' target='blank'>Your Account >> API "
+"Keys</a>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1714
+msgid "Select an option"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1717
+msgid "Click here to review"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1720
+msgid ""
+"Liked <span class='rm-brand'>RegistrationMagic </span>so far? Please rate it "
+"<span class='rm-bold'> 5 stars</span> on wordpress.org and help us keep it "
+"going!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1723
+msgid "Select a payment method"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1726
+msgid "Card Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1729
+msgid "Month"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1732
+msgid "Year"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1735
+msgid "CVC/CVV"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1741 ../includes/class_rm_ui_strings.php:
+#: 1854
+msgid "From"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1744 ../includes/class_rm_ui_strings.php:
+#: 1857
+msgid "Up to"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1747 ../includes/class_rm_ui_strings.php:
+#: 1860
+msgid "Uh, oh! Looks like we've hit a road block"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1750 ../includes/class_rm_ui_strings.php:
+#: 1863
+msgid "Following requirement(s) are not met, I can not continue. :("
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1753 ../includes/class_rm_ui_strings.php:
+#: 1866
+msgid "PHP extension SimpleXML is not enabled on server."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1756 ../includes/class_rm_ui_strings.php:
+#: 1869
+msgid "PHP extension mcrypt is not enabled on server."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1759 ../includes/class_rm_ui_strings.php:
+#: 1872
+msgid "This plugin requires atleast php version 5.3. Older version found."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1762 ../includes/class_rm_ui_strings.php:
+#: 1875
+msgid "Feature not available. PHP extension CURL is not enabled on server."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1765 ../includes/class_rm_ui_strings.php:
+#: 1878
+msgid ""
+"PHP extension CURL is not enabled on server. Following features will not be "
+"available:<ul><li>Facebook Integration</li><li>Mailchimp "
+"Integration</li><li>Stripe Payment</li><li>Export submission to external "
+"URL</li></ul>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1768 ../includes/class_rm_ui_strings.php:
+#: 1881
+msgid ""
+"PHP extension ZIP is not enabled on server. Following features will not be "
+"available:<ul><li>Downloading multiple attachments as zip</li></ul>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1775
+msgid "Activate User"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1778
+#, php-format
+msgid "A new user has been registered on %SITE_NAME%"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1781
+msgid "Please click on the button below to activate the user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1784
+msgid ""
+"If the above button is not working you can paste the following link to your "
+"browser"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1787
+msgid "Failed to upadte user information.Can not activate user"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1790
+msgid "You have successfully activated the user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1793
+msgid ""
+"If the user is activated by mistake or you do not want to activate the user "
+"you can deactivate the user using dashboard."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1796
+msgid "Unable to activate the user. Try activating the user using your dashboard."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1799
+msgid "You are not authorized to perform this action."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1802
+msgid "Map"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1805
+msgid "Street Address"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1808
+msgid "City"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1811
+msgid "State"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1817
+msgid "Zip Code"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1820
+msgid "Address"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1823
+msgid "Enter your address"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1826
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1829
+msgid ""
+"You will need a Google maps API to make 'Map' and 'Address' type fields work."
+" To get API key <a target='blank' class='rm_help_link' href='https://console."
+"developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,"
+"directions_backend,distance_matrix_backend,"
+"elevation_backend&keyType=CLIENT_SIDE&reusekey=true'>Click here</a>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1832
+msgid ""
+"No Google Maps API configured.Please set a valid API Key from "
+"RegistrationMagic &#8594; Global Settings &#8594; EXTERNAL INTEGRATION."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1835
+msgid ""
+"Google Maps API Keys are required for this field.Please make sure you have "
+"configured a valid API key in Global Settings <span>&#8594;</span> EXTERNAL "
+"INTEGRATION."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1838
+msgid "Congratulations! You have subscribed the newsletter successfully."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1841 ../includes/class_rm_ui_strings.php:
+#: 1887
+msgid "</em>User Deleted</em>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1844 ../includes/class_rm_ui_strings.php:
+#: 1890
+#, php-format
+msgid ""
+"Session directory is not writable, please contact your server support to "
+"enable write permission to following directory: <br>%s"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1847
+msgid "Get form embed code"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1851
+msgid "Between following dates"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1884
+msgid ""
+"Keep up with breakthroughs and innovations we are bringing to WordPress "
+"registration system. <a href='javascript:void(0)' "
+"onclick='handle_newsletter_subscription_click()'> Click here</a> to "
+"subscribe to our newsletter."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1893
+msgid "Access Denied"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1896
+#, php-format
+msgid ""
+"Hi,<br/><br/> Thank you for registering with <a href=\"%s\">%s</a>. Your "
+"account is now active.<br/><br/>Regards."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1899
+msgid "Account Activated"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1902
+msgid "Only numbers, dot(.) and wildcard(?) are allowed."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1905
+msgid ""
+"Enter IP Address to ban, separate by space for multiple addresses. Wildcard(?"
+") allowed. For example: 127.233.12?.01? will ban all IPs from 127.233.120."
+"010 to 127.233.129.019"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1908
+msgid "Banned IP Addresses from accessing form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1911
+msgid ""
+"Enter Email Addresses to ban, separate by space for multiple addresses. "
+"Wildcard(* and ?) allowed. For example: joh*@gmail.com will ban all "
+"submissions done using gmail domain and start with 'joh'"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1914
+msgid "Blacklisted/reserved username"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1917
+msgid ""
+"User will not be able to register using these usernames, separate multiple "
+"usernames using space or newline"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1920
+msgid "This username can not be used"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1923
+msgid "Banned Email Addresses from submitting form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1926
+msgid "Scrolling T&C is required"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1929
+msgid "Force user to scroll past complete T&C before accepting."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1932
+msgid "Logout"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1935
+msgid "Form Configuration"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1946
+msgid "Accounts"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1950
+msgid "Post Submission"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1954
+msgid "Auto Responder"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1958
+msgid "Limits"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1962
+msgid "MailChimp"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1966
+msgid "Access Control"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1970
+msgid "Name, description and general content"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1974
+msgid "Personalize this form and make it your own!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1978
+msgid "Define user account and role behavior"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1982
+msgid "Success message, redirctions and external submissions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1986
+msgid "Define auto responder settings with mail merge"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1990
+msgid "Limit form submissions based specific conditions and message"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1994
+msgid "MailChimp Integration with advanced field mapping"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:1997
+msgid "Form access restrictions based on date, passphrase and role."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2000
+msgid ""
+"Mailchimp is not configured to work with this form. Please enter a valid "
+"mailchimp API key in Global Settings&#10148;External Integration&#10148;"
+"Mailchimp Api Key"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2002
+msgid "You are not authorized to see this page."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2004
+msgid "Select a field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2006
+msgid "Select a list."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2009
+msgid ""
+"RegistrationMagic Gold edition is already activated. Please disable Gold to "
+"activate Silver edition."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2012 ../includes/class_rm_ui_strings.php:
+#: 2392 ../includes/class_rm_ui_strings.php:2395 ../includes/class_rm_ui_strings.
+#: php:2398 ../includes/class_rm_ui_strings.php:2401 ..
+#: /includes/class_rm_ui_strings.php:2404
+msgid ""
+"RegistrationMagic Gold edition is already activated. Please disable Gold to "
+"activate Basic edition."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2015 ../includes/class_rm_ui_strings.php:
+#: 2201 ../includes/class_rm_ui_strings.php:2407 ../includes/class_rm_ui_strings.
+#: php:2495 ../includes/class_rm_ui_strings.php:2599
+msgid "Expired"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2018 ../includes/class_rm_ui_strings.php:
+#: 2204 ../includes/class_rm_ui_strings.php:2410 ../includes/class_rm_ui_strings.
+#: php:2498 ../includes/class_rm_ui_strings.php:2602
+msgid "Expires on"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2021 ../includes/class_rm_ui_strings.php:
+#: 2207 ../includes/class_rm_ui_strings.php:2413 ../includes/class_rm_ui_strings.
+#: php:2501 ../includes/class_rm_ui_strings.php:2605
+#, php-format
+msgid "Expires in %d days"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2024 ../includes/class_rm_ui_strings.php:
+#: 2210 ../includes/class_rm_ui_strings.php:2416 ../includes/class_rm_ui_strings.
+#: php:2504 ../includes/class_rm_ui_strings.php:2608
+msgid "Help text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2027 ../includes/class_rm_ui_strings.php:
+#: 2213 ../includes/class_rm_ui_strings.php:2419 ../includes/class_rm_ui_strings.
+#: php:2507 ../includes/class_rm_ui_strings.php:2611
+msgid "It will be shown alongside the field, can be used as a guiding text for user."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2030 ../includes/class_rm_ui_strings.php:
+#: 2216 ../includes/class_rm_ui_strings.php:2422 ../includes/class_rm_ui_strings.
+#: php:2510
+msgid "Enable custom password restrictions"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2033 ../includes/class_rm_ui_strings.php:
+#: 2219 ../includes/class_rm_ui_strings.php:2425 ../includes/class_rm_ui_strings.
+#: php:2513
+msgid "Password rules"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2035 ../includes/class_rm_ui_strings.php:
+#: 2221 ../includes/class_rm_ui_strings.php:2427 ../includes/class_rm_ui_strings.
+#: php:2516
+msgid "Must contain uppercase letter"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2038 ../includes/class_rm_ui_strings.php:
+#: 2775
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2042 ../includes/class_rm_ui_strings.php:
+#: 2767
+msgid "Nick Name"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2044 ../includes/class_rm_ui_strings.php:
+#: 2777
+msgid "Birth Date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2046 ../includes/class_rm_ui_strings.php:
+#: 2779
+msgid "Secondary email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2048 ../includes/class_rm_ui_strings.php:
+#: 2781
+msgid "Gender"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2050 ../includes/class_rm_ui_strings.php:
+#: 2783
+msgid "Language"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2052
+msgid "Limited range of birth date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2054
+msgid "Maximum Date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2056
+msgid "Minimum Date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2058
+msgid "Range"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2060 ../includes/class_rm_ui_strings.php:
+#: 2785
+msgid "Secondary Email"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2062
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2064
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2066
+msgid "Google+"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2068
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2070
+msgid "Linked In"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2072
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2074
+msgid "VKontacte"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2076
+msgid "Skype Id"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2078
+msgid "SoundCloud"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2082 ../includes/class_rm_ui_strings.php:
+#: 2790
+msgid "Image upload"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2084 ../includes/class_rm_ui_strings.php:
+#: 2792
+msgid "Mobile Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2086 ../includes/class_rm_ui_strings.php:
+#: 2794
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2088 ../includes/class_rm_ui_strings.php:
+#: 2796
+msgid "Divider"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2090 ../includes/class_rm_ui_strings.php:
+#: 2798
+msgid "Spacing"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2092 ../includes/class_rm_ui_strings.php:
+#: 2800
+msgid "Multi-Dropdown"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2094
+msgid "Rating"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2096
+msgid "Incorrect Format of Facebook Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2098
+msgid "Incorrect Format of twitter Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2100
+msgid "Incorrect Format of Phone Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2102
+msgid "Incorrect Format of Google plus Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2104
+msgid "Incorrect Format of Instagram Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2106
+msgid "Incorrect Format of Linked in Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2108
+msgid "Incorrect Format of Youtube Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2110
+msgid "Incorrect Format of Vkontacte Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2112
+msgid "Incorrect Format of Skype Id"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2114
+msgid "Incorrect Format of Sound cloud url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2116 ../includes/class_rm_ui_strings.php:
+#: 2802
+msgid "Incorrect Format of Mobile Number"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2120 ../includes/class_rm_ui_strings.php:
+#: 2806
+msgid "Timezone for the field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2122 ../includes/class_rm_ui_strings.php:
+#: 2808
+msgid "Shortcodes"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2124 ../includes/class_rm_ui_strings.php:
+#: 2810
+msgid "Enter shortcodes that will appear on the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2126 ../includes/class_rm_ui_strings.php:
+#: 2769 ../includes/class_rm_ui_strings.php:2812
+msgid "Website"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2128 ../includes/class_rm_ui_strings.php:
+#: 2771 ../includes/class_rm_ui_strings.php:2814
+msgid "Incorrect Format of Website Url"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2130
+msgid ""
+"Hide the red Asterisk(*) besides the label. Useful for marking required "
+"fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2133
+msgid "Hide Asterisk"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2136 ../includes/class_rm_ui_strings.php:
+#: 2224 ../includes/class_rm_ui_strings.php:2430
+msgid ""
+"To use embed code X-Frame-Options must be set to 'ALLOWALL' on server or "
+"must be unset."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2139 ../includes/class_rm_ui_strings.php:
+#: 2227 ../includes/class_rm_ui_strings.php:2433 ../includes/class_rm_ui_strings.
+#: php:2615
+msgid "Must contain numeral"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2142 ../includes/class_rm_ui_strings.php:
+#: 2230 ../includes/class_rm_ui_strings.php:2436 ../includes/class_rm_ui_strings.
+#: php:2618
+msgid "Must contain special character"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2145 ../includes/class_rm_ui_strings.php:
+#: 2233 ../includes/class_rm_ui_strings.php:2439 ../includes/class_rm_ui_strings.
+#: php:2621
+msgid "Minimum length"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2148 ../includes/class_rm_ui_strings.php:
+#: 2236 ../includes/class_rm_ui_strings.php:2442 ../includes/class_rm_ui_strings.
+#: php:2624
+msgid "Error: Password must follow these rules:"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2151 ../includes/class_rm_ui_strings.php:
+#: 2239 ../includes/class_rm_ui_strings.php:2445 ../includes/class_rm_ui_strings.
+#: php:2627
+#, php-format
+msgid "Must not be shorter than %d characters"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2154 ../includes/class_rm_ui_strings.php:
+#: 2242 ../includes/class_rm_ui_strings.php:2448 ../includes/class_rm_ui_strings.
+#: php:2630
+#, php-format
+msgid "Must not be longer than %d characters"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2157 ../includes/class_rm_ui_strings.php:
+#: 2245 ../includes/class_rm_ui_strings.php:2451 ../includes/class_rm_ui_strings.
+#: php:2633
+msgid "Maximum length"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2160 ../includes/class_rm_ui_strings.php:
+#: 2248 ../includes/class_rm_ui_strings.php:2454 ../includes/class_rm_ui_strings.
+#: php:2636
+msgid ""
+"Force custom rules for password that user choose during registration. Does "
+"not appy on auto-generated passwords."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2164 ../includes/class_rm_ui_strings.php:
+#: 2458 ../includes/class_rm_ui_strings.php:2519
+msgid "Reset Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2167 ../includes/class_rm_ui_strings.php:
+#: 2461 ../includes/class_rm_ui_strings.php:2522
+msgid "Old Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2170 ../includes/class_rm_ui_strings.php:
+#: 2464 ../includes/class_rm_ui_strings.php:2525
+msgid "New Password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2173 ../includes/class_rm_ui_strings.php:
+#: 2467 ../includes/class_rm_ui_strings.php:2528
+msgid "Confirm new password"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2176 ../includes/class_rm_ui_strings.php:
+#: 2470 ../includes/class_rm_ui_strings.php:2531
+msgid "New password can not be confirmed."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2179 ../includes/class_rm_ui_strings.php:
+#: 2473 ../includes/class_rm_ui_strings.php:2534
+msgid "Password you have entered is incorrect."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2182 ../includes/class_rm_ui_strings.php:
+#: 2476 ../includes/class_rm_ui_strings.php:2537
+msgid ""
+"Your password has been reset successfully. Redirecting you to the login page."
+".."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2185 ../includes/class_rm_ui_strings.php:
+#: 2479 ../includes/class_rm_ui_strings.php:2540
+msgid "Your account is not active yet."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2188 ../includes/class_rm_ui_strings.php:
+#: 2482 ../includes/class_rm_ui_strings.php:2543
+msgid "Please login again with your new password."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2191 ../includes/class_rm_ui_strings.php:
+#: 2485 ../includes/class_rm_ui_strings.php:2546
+msgid "ERROR"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2194 ../includes/class_rm_ui_strings.php:
+#: 2197 ../includes/class_rm_ui_strings.php:2488 ../includes/class_rm_ui_strings.
+#: php:2491
+msgid "Password reset successfully."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2251 ../includes/class_rm_ui_strings.php:
+#: 2257 ../includes/class_rm_ui_strings.php:2260
+msgid "Logo for submission pdf"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2254
+msgid "Text with logo on submission pdf"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2263 ../includes/class_rm_ui_strings.php:
+#: 2639
+msgid "Enable date based form access control"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2266 ../includes/class_rm_ui_strings.php:
+#: 2642
+msgid "Enable passphrase based form access control"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2269 ../includes/class_rm_ui_strings.php:
+#: 2645
+msgid "Enable user role based form access control"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2272 ../includes/class_rm_ui_strings.php:
+#: 2648
+msgid ""
+"User will be asked to input a date before accessing form. Useful for setting "
+"age based restrictions."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2275 ../includes/class_rm_ui_strings.php:
+#: 2651
+msgid "User need to enter a passphrase before accessing form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2278 ../includes/class_rm_ui_strings.php:
+#: 2654
+msgid "Only users with specified roles will be able to view form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2281 ../includes/class_rm_ui_strings.php:
+#: 2657
+msgid "Question for asking date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2284 ../includes/class_rm_ui_strings.php:
+#: 2660
+msgid "Question for asking passphrase"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2287 ../includes/class_rm_ui_strings.php:
+#: 2663
+msgid "Enter your date of birth"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2290 ../includes/class_rm_ui_strings.php:
+#: 2666
+msgid "Enter the secret code"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2293 ../includes/class_rm_ui_strings.php:
+#: 2669
+msgid "This question will be asked to user for entering a date"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2296 ../includes/class_rm_ui_strings.php:
+#: 2672
+msgid "This question will be asked to user for entering passphrase"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2299 ../includes/class_rm_ui_strings.php:
+#: 2675
+msgid "Limit type"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2302 ../includes/class_rm_ui_strings.php:
+#: 2678
+msgid "Lower limit"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2305 ../includes/class_rm_ui_strings.php:
+#: 2681
+msgid "Upper limit"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2308 ../includes/class_rm_ui_strings.php:
+#: 2684
+msgid "Age limit"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2311 ../includes/class_rm_ui_strings.php:
+#: 2687
+msgid "Absolute dates"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2314 ../includes/class_rm_ui_strings.php:
+#: 2690
+msgid ""
+"Type of the limits. User entered date must fall into the given date range or "
+"age range."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2317 ../includes/class_rm_ui_strings.php:
+#: 2693
+msgid "Only users with these roles will be able to access form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2320 ../includes/class_rm_ui_strings.php:
+#: 2696
+msgid "Select User Roles"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2323 ../includes/class_rm_ui_strings.php:
+#: 2699
+msgid "Passphrase"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2326 ../includes/class_rm_ui_strings.php:
+#: 2702
+msgid "The passphrase/secret code that user must enter to access the form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2329 ../includes/class_rm_ui_strings.php:
+#: 2705
+msgid "Invalid date limit type."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2332 ../includes/class_rm_ui_strings.php:
+#: 2708
+msgid "Atleast one limit must be input"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2335 ../includes/class_rm_ui_strings.php:
+#: 2711
+msgid "Passphrase can not be empty"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2338 ../includes/class_rm_ui_strings.php:
+#: 2714
+msgid "No user-roles selected."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2341 ../includes/class_rm_ui_strings.php:
+#: 2717
+msgid "Denial message"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2344 ../includes/class_rm_ui_strings.php:
+#: 2720
+msgid ""
+"If user is not authorised to access the form this message will be displayed "
+"in place of form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2347 ../includes/class_rm_ui_strings.php:
+#: 2723
+msgid "Sorry, you are not authorised to access this content."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2350 ../includes/class_rm_ui_strings.php:
+#: 2726
+msgid "Change"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2353 ../includes/class_rm_ui_strings.php:
+#: 2567 ../includes/class_rm_ui_strings.php:2729
+msgid "Icon"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2356
+msgid ""
+"Display an icon before the label of this field to add little pizzaz to your "
+"form. You can style the icon below."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2359 ../includes/class_rm_ui_strings.php:
+#: 2735
+msgid "Icon color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2362 ../includes/class_rm_ui_strings.php:
+#: 2738
+msgid "Foreground color of the icon"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2365 ../includes/class_rm_ui_strings.php:
+#: 2741
+msgid "Background color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2368 ../includes/class_rm_ui_strings.php:
+#: 2744
+msgid "Background color of the icon"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2371 ../includes/class_rm_ui_strings.php:
+#: 2747
+msgid "Shape"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2374 ../includes/class_rm_ui_strings.php:
+#: 2750
+msgid "Close"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2377 ../includes/class_rm_ui_strings.php:
+#: 2753
+msgid "Icon will be masked by this shape"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2380 ../includes/class_rm_ui_strings.php:
+#: 2756
+msgid "Square"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2383 ../includes/class_rm_ui_strings.php:
+#: 2759
+msgid "Round"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2386 ../includes/class_rm_ui_strings.php:
+#: 2762
+msgid "Sticker"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2389
+msgid "No data to be saved."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2549
+msgid "Click Here"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2552
+msgid "Register"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2555
+msgid "Floating Icon Background Color"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2558
+msgid "Show Magic Pop-up Button, Menu and Panels"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2561
+msgid ""
+"Makes it easier to let your users to sign in, register and access their data "
+"WITHOUT going through process of setting up shortcodes and custom menu links!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2564
+msgid ""
+"Define accent of the front end buttons and panels. Match it to your theme or "
+"contrast it for better visibility. This can be edited live by visiting the "
+"front end!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2573 ../includes/class_rm_ui_strings.php:
+#: 2595
+msgid "Both"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2576
+msgid "Show floating button as"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2582
+msgid "Floating Button Text"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2588 ../includes/class_rm_ui_strings.php:
+#: 2592
+msgid "Frontend"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2591
+msgid "No Registration form is selected."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2732
+msgid "Select a custom icon to be shown beside the field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2773 ../includes/class_rm_ui_strings.php:
+#: 2816
+msgid "Show a astrix on the field label."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2818
+msgid "Show Asterix"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2821
+msgid "Please login to view this page."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2824
+#, php-format
+msgid "You have selected <b>%d users</b> as recipients of this message"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2827
+msgid "Automatically log in user after registration"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2830
+msgid ""
+"User will be logged in automatically on next page refresh after successfull "
+"account creation. You may set up auto-redirect after submission. Note that "
+"it will work only if auto-approval is enabled."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2833
+msgid "Edit Note"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2836
+msgid "New Note"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2840
+msgid "Simple single line text field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2843
+msgid ""
+"A read only paragraph field useful for displaying multiple lines of text "
+"inside form between input fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2846
+msgid "Large size read only text useful for creating custom headings."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2849
+msgid ""
+"Allows user to choose a value from multiple predefined options displayed as "
+"drop down list."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2852
+msgid ""
+"Allows user to choose a value from multiple predefined options displayed as "
+"radio boxes."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2855
+msgid "This allows user to input multiple lines of text as value."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2858
+msgid ""
+"Allows user to choose more than one value from multiple predefined options "
+"displayed as checkboxes."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2861
+msgid "Allows users to pick a date from graphical calendar or enter manually."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2864
+msgid ""
+"An additional email field. Please note, primary email field always appears "
+"in the form and cannot be removed."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2867
+msgid "Allows user to input value in numbers."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2870
+msgid "A drop down list of all countries appears to the user for selection."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2873
+msgid "A drop down list of all time-zones appears to the user for selection."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2876
+msgid ""
+"Useful for adding terms and conditions to the form. User must select the "
+"check box to continue with submission if you select “Is Required” below."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2879
+msgid ""
+"Display a field to the user for attaching files from his/ her computer to "
+"the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2882
+msgid ""
+"Adds payment to the form. Payment fields are separately defined in “Price "
+"Fields” section of RegistrationMagic. This field type allows you to insert "
+"one of the fields defined there."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2885
+msgid ""
+"Allows user to add extra text field boxes to the form for submitting "
+"different values. Useful where a field requires multiple user input  values. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2888
+msgid "Displays a Map on the form with ability to search and mark an address."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2891
+msgid ""
+"Adds field set for entering an address with Google Geolocation autocomplete "
+"support"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2894
+msgid "This field is connected directly to WordPress’ User area First Name field. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2897
+msgid "This field is connected directly to WordPress’ User area Last Name field. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2900
+msgid ""
+"This field is connected directly to WordPress’ User area Bio field. It "
+"allows inserting multiple lines of text. "
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2903
+msgid "Adds a phone number field."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2906
+msgid "Adds a Mobile number field"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2909
+msgid "Add a field that masks entered value like password."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2912
+msgid "A Nickname field bound to WordPress’ default User field with same name."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2915
+msgid "A speciality date field that records date of birth"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2918
+msgid "A secondary email field, it will displayed on the user profile page."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2921
+msgid "Gender/ Sex selection radio box"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2924
+msgid "Adds a drop down language selection field with common languages as options"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2927
+msgid "A speciality URL field for asking Facebook Profile page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2930
+msgid "A speciality URL field for asking Twitter page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2933
+msgid "A speciality URL field for asking Google+ Profile page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2936
+msgid "A speciality URL field for asking LinkedIn Profile page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2939
+msgid "A speciality URL field for asking YouTube Channel or Video page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2942
+msgid "A speciality URL field for asking VKontacte page"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2945
+msgid "Asks User his/ her Instagram Profile"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2948
+msgid "Asks User his/ her Skype ID"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2951
+msgid "A speciality URL field for asking SoundClound URL"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2954
+msgid "A field for entering time"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2957
+msgid "A speciality file upload field optimized for image upload"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2960
+msgid ""
+"You can use this field to enter a WordPress plugin shortcode. ShortCode will "
+"be parsed and rendered automatically inside the form."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2963
+msgid "Divider for separating fields."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2966
+msgid "Useful for adding space between fields"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2969
+msgid "A dropdown field with a twist. Users can now select more than one option."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2972
+msgid "Edit Form Presentation"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2975
+msgid ""
+"A rating field asking users to rate something. It displays a stars that can "
+"be clicked from 1 star to 5 stars."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2978
+msgid "A website URL field bound to WordPress’ default User field with same name."
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2985
+msgid ""
+"This is a multi-page form created with Gold edition. Editing this form in "
+"this edition might cause issues!"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2988
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2991
+msgid "Switch"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2994
+msgid "Light"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:2997
+msgid "Dark"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:3000
+#, php-format
+msgid ""
+"<b>Note: This is not a 100% accurate representation of how the form will "
+"appear on the front end.<br>Front end presentation is influenced by multiple "
+"factors including your theme’s CSS.</b>"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:3006
+msgid "Add, edit or modify various custom fields in this form"
+msgstr ""
+
+#: ../includes/class_rm_ui_strings.php:3009
+msgid "NO STRING FOUND"
+msgstr ""
+
+#. Base ID
+#: ../public/widgets/class_rm_otp_widget.php:15 ..
+#: /public/widgets/class_rm_otp_widget.php:80
+msgid "RegistrationMagic OTP Login"
+msgstr ""
+
+#: ../public/widgets/class_rm_otp_widget.php:16
+msgid "One Time Password login system for RegistrationMagic form submissions"
+msgstr ""
+
+#: ../public/widgets/class_rm_otp_widget.php:41 ../public/widgets/html/login.php:9
+msgid "Email:"
+msgstr ""
+
+#: ../public/widgets/class_rm_otp_widget.php:43 ../public/widgets/html/login.php:21
+msgid "OTP:"
+msgstr ""
+
+#: ../public/widgets/class_rm_otp_widget.php:66
+msgid "View Submissions"
+msgstr ""
+
+#: ../public/widgets/class_rm_otp_widget.php:83
+msgid "Title:"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.registrationmagic.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"RegistrationMagic - Easy to use powerful WordPress Registration, SignUp and "
+"Contact Forms."
+msgstr ""
+
+#. Author of the plugin
+msgid "CMSHelplive"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://cmshelplive.com"
+msgstr ""
